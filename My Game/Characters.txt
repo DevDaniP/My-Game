@@ -1,0 +1,13 @@
+Character: amy
+Coins: Copper: 0, Silver: 2, Gold: 2, Electrum: 2, Platinum: 2
+Backpack items:
+  - Spear, Weapon, Standard, 0.0.0.0.0
+  - sdf], sdf, 5, 0
+Character: john
+Coins: Copper: 2, Silver: 2, Gold: 2, Electrum: 2, Platinum: 2
+Backpack items:
+  - Dagger, Weapon, Standard, 0.0.0.0.0
+Character: chris
+Coins: Copper: 2, Silver: 2, Gold: 2, Electrum: 2, Platinum: 2
+Backpack items:
+  - Bow, Weapon, Standard, 0.0.0.0.0
